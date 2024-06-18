@@ -22,7 +22,7 @@ A timeline of events across my programming journey.
 >
 > One Notable project during my time at LCC was designing a Breadth-First and Depth-First Node searching algorithm that would print the shortest path.
 
-![](../../assets/images/big-graph.png)
+![](../../assets/images/big-graph.jpg)
 
 *The starting node "3" will perform a breadth-first (shown in maroon) and depth-first search (shown in orage) to find the shortest path to node "20" and print an image with their respective results*
 
@@ -75,7 +75,6 @@ Hex = A
 [Emulator 101](http://www.emulator101.com/welcome.html)
 
 ---
-
 # Programming
 
 ---
