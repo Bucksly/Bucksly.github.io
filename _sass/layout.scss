@@ -4,7 +4,7 @@
   z-index: 0;
   display: flex;
   flex-wrap: wrap;
-  background-image: url('../../assets/images/big-graph.jpg');
+  background-image: url('../../assets/images/bg.png');
   background-color: $sidebar-color;
 
   @include mq(md) {
