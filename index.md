@@ -9,6 +9,8 @@ permalink: /
 # Aiden Burtovoy's Portfolio
 {: .fs-9 }
 
+---
+
 This site is dedicated to documenting and displaying any achievments that I accomplish.
 
 ---
