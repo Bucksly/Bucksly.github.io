@@ -2,7 +2,7 @@
 title: A minimal layout page
 layout: minimal
 parent: Layout
-has_children: true
+has_children: false
 ---
 
 # A minimal layout page
