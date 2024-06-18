@@ -4,7 +4,7 @@ title: Other Skills
 nav_order: 3
 ---
 
-# Timeline
+# Other Skills
 {: .no_toc }
 
 ---
