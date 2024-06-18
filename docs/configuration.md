@@ -74,7 +74,11 @@ Hex = A
 
 [Emulator 101](http://www.emulator101.com/welcome.html)
 
+---
+
 # Programming
+
+---
 
 besides the C++ that I have to learn for educational purposes, I have also explored many other languages as well, such as;
 
