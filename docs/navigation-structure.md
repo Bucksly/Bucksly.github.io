@@ -24,6 +24,8 @@ Here is an example of an "image repair" that consists of starting with a waterma
 
 *This project was for practice purposes only and has never been used as a form of redistributing or offering an alternate obtainment method of the original image. (In the event this site ever is used for my own public purposes, this image would be replaced with a different image entirely)*
 
+---
+
 I also have paired these skills with photography to create a unique artwork involving pairs of shoes.
 
 ![](../../assets/images/shounity.png)
@@ -41,7 +43,9 @@ This first one is simply a skull resting on a roman-style pillar, created using 
 
 ![](../../assets/images/5-Finished-Skull.png)
 
+---
+
 This second one is a portait of a woman, made using both charcoal and white charcoal on a neutral brown sheet of paper.
 
-![](../../assets/images/6-Finished-Portrait.png)
+![](../../assets/images/6-Finished-Portrait.jpg)
 
